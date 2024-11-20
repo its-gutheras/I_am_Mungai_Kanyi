@@ -27,19 +27,19 @@ const testimonials = [
     {
         name: "Christine Njau",
         image: "https://placehold.co/80x80",
-        text: "Mungai helped me find the perfect life insurance policy. His expertise and patience made the process so easy.",
-        role: "Client"
-    },
-    {
-        name: "Jimmy Kanyi",
-        image: "https://placehold.co/80x80",
-        text: "Outstanding service! Mungai took the time to understand my needs and found me the best rates for my home insurance.",
+        text: "Mungai's savings and investment plan recommendations have transformed my financial growth. His strategies are tailored and effective.",
         role: "Client"
     },
     {
         name: "Joseph Karanja",
         image: "https://placehold.co/80x80",
-        text: "I've been working with Mungai for over 1 year now. His professionalism and knowledge are unmatched.",
+        text: "Mungai guided me in setting up a secure education plan for my child. His advice was clear and invaluable. Its a relief knowing his future is financially secure",
+        role: "Client"
+    },
+    {
+        name: "Mirriam Nyambura",
+        image: "https://placehold.co/80x80",
+        text: "Mungai's saving plan recommendations have transformed the way I manage my finances. I'm now prepared for emergencies and big milestones..",
         role: "Client"
     }
 ];
