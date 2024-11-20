@@ -33,13 +33,13 @@ const testimonials = [
     {
         name: "Joseph Karanja",
         image: "https://placehold.co/80x80",
-        text: "Mungai guided me in setting up a secure education plan for my child. His advice was clear and invaluable. Its a relief knowing his future is financially secure",
+        text: "Mungai guided me in setting up a secure education plan for my child. His advice was clear and invaluable. Its a relief knowing his future is financially secure.",
         role: "Client"
     },
     {
         name: "Mirriam Nyambura",
         image: "https://placehold.co/80x80",
-        text: "Mungai's saving plan recommendations have transformed the way I manage my finances. I'm now prepared for emergencies and big milestones..",
+        text: "Mungai's saving plan recommendations have transformed the way I manage my finances. I'm now prepared for emergencies and big milestones.",
         role: "Client"
     }
 ];
