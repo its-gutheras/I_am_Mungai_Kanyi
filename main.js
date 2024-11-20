@@ -31,7 +31,7 @@ const testimonials = [
         role: "Client"
     },
     {
-        name: "Salex Kwamboka",
+        name: "Jimmy Kanyi",
         image: "https://placehold.co/80x80",
         text: "Outstanding service! Mungai took the time to understand my needs and found me the best rates for my home insurance.",
         role: "Client"
